@@ -24,7 +24,7 @@ export default function RegistrationHero() {
   const [submitted, setSubmitted] = useState(false);
   const [error, setError] = useState(null);
   
-  const SHEETDB_URL = "https://sheetdb.io/api/v1/x5cis4lg9wgns"; 
+  const SHEETDB_URL = "https://sheetdb.io/api/v1/0pxfh2d7s46rk"; 
   const WHATSAPP_GROUP_LINK = "https://chat.whatsapp.com/KzvDs2W2qjkKEuZjbN1cE3"; 
  // Existing Form Logic (rest of the component)
 // ... (omitted for brevity)
