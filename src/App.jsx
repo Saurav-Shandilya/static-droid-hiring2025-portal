@@ -53,7 +53,7 @@ export default function RegistrationHero() {
   // --- Utility Functions ---
 
   useEffect(() => {
-    const deadline = new Date("2025-11-15T23:59:59").getTime();
+    const deadline = new Date("2025-11-14T23:59:59").getTime();
     const timer = setInterval(() => {
       const now = new Date().getTime();
       const diff = deadline - now;
