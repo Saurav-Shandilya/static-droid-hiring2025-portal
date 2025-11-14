@@ -5,7 +5,7 @@ export default function RegistrationHero() {
   
   // --- Hero Section Data and Logic ---
   const [timeLeft, setTimeLeft] = useState("");
-  const positions = ["IOT Team", "AI / ML Team", "Design Team", "Content Team", "Technical Team", "PR & Event Team"];
+  const positions = ["IOT Team", "AI / ML Team", "Design Team", "Content Team", "Technical Team", "PR & Event Team", "Game dev"];
 
   // Existing Form Logic (rest of the component)
   const [formData, setFormData] = useState({
